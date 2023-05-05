@@ -72,4 +72,6 @@ the random forest classifier is imported and initialzed , using the fit function
 
 then seaborn and matplotlib is used for viasualizing the performance metrics.
 
+the models are saved in the models folder in the repository , they can be loaded in using the joblib library and used for predictions.
+
 
