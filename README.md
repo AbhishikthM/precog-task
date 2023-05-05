@@ -43,7 +43,11 @@ The goal of this project is to preprocess and analyze data related to various co
     │   ├── purpose_name_key.csv
     │   ├── section_key.csv
     │   └── type_name_key.csv
-
+    ├───models
+        ├─── rf.joblib
+        ├─── lr.joblib
+        
+        
 ## Dependencies
 
 - pandas
